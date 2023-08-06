@@ -1,8 +1,6 @@
 # Tom-s-Big-Sandbox-Bash
 A Z80 assembly game complete with physics, collision, haiku's, and Tom himself!
 
-_I apologize in advance for the file structure_
-
 This was a game that I made during my internship at Iron Galaxy Studios.
 All systems and concepts were designed by me, for better or worse.
 All teaching _and_ goofing around was done by Tom Carbone.
