@@ -1,4 +1,4 @@
-# Tom-s-Big-Sandbox-Bash
+# Tom's Big Sandbox Bash
 A 68k assembly game complete with physics, collision, haikus, and Tom himself!  
 
 This was a game that I made during my internship at Iron Galaxy Studios.  
