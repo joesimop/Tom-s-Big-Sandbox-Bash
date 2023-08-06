@@ -25,5 +25,5 @@ beat all of them!
 ## Controls
 * ***Select Block***: A and D keys, or click the boxes above the respective block.
 * ***Drop Block***: Left Click
-* ***Rotate Block****: Right Click
+* ***Rotate Block***: Right Click
 * ***Undo Move***: R key
