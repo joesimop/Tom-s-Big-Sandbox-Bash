@@ -3,6 +3,7 @@
 * Written by : Joseph Simopoulos
 * Date       :
 * Description: Draws a 32-bit bitmap to the screen.
+*
 * The arguments for the Draw Bitmap subroutine are:
 *   - Pointer to .bmp file (NOT a pointer to the pixel data)
 *   - Top, Left corner (x,y) of the bitmap chunk you want to display
