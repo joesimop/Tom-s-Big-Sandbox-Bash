@@ -1,5 +1,5 @@
 # Tom-s-Big-Sandbox-Bash
-A 68k assembly game complete with physics, collision, haiku's, and Tom himself!  
+A 68k assembly game complete with physics, collision, haikus, and Tom himself!  
 
 This was a game that I made during my internship at Iron Galaxy Studios.  
 All systems and concepts were designed by me, for better or worse.  
