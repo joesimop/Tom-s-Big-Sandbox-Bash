@@ -1,16 +1,13 @@
 *-----------------------------------------------------------
 * Title      : Bitmap Subroutine
-* Written by :
+* Written by : Joseph Simopoulos
 * Date       :
-* Description:
-
-* In this exercise, you will create a subroutine that can display
-*   a chunk of a .bmp file. The arguments required for your subroutine are:
+* Description: Draws a 32-bit bitmap to the screen.
+* The arguments for the Draw Bitmap subroutine are:
 *   - Pointer to .bmp file (NOT a pointer to the pixel data)
 *   - Top, Left corner (x,y) of the bitmap chunk you want to display
 *   - Width and Height of the bitmap chunk you want to display
 *   - Top, Left corner (x,y) on the output screen to display your chunk
-* You will need to handle 24-bit and 32-bit bitmaps
 *-----------------------------------------------------------
 
 *Changed registers by DRAW_BMP call
